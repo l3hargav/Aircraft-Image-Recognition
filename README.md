@@ -1,0 +1,1 @@
+# Aircraft Recognition Model Using ResNet50 as the base model
